@@ -470,3 +470,22 @@ img{
 .hex{
   color: #00FFFF;
 }
+
+
+.More{
+  position: relative;
+
+  color: var(--first-color);
+  margin-top: 50px;
+  margin-bottom: var(--mb-4);
+  text-align: center;
+}
+
+.Moree{
+  position: relative;
+
+  color: var(--first-color);
+  margin-top: -30px;
+  margin-bottom: var(--mb-4);
+  text-align: center;
+}
